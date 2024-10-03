@@ -1,0 +1,19 @@
+*{
+  font-family: "Poppins", sans-serif;
+}
+.custom-shadow {
+  box-shadow: 0 0 15px 5px #40E0D0; /* Blue shadow around all sides */
+}
+.container{
+  margin-top: 70px;
+  border: 50%;
+}
+.btn-advanced:hover {
+  background-color: #2980b9; /* Darker blue on hover */
+  transform: scale(1.05); /* Slightly enlarge on hover */
+}
+.custom{
+  font-size: 14px;
+}
+
+
